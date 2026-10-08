@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dido3009ToDoManager", "dido3009ToDoManager\dido3009ToDoManager.csproj", "{9BB873E0-0C54-47A3-9493-6083C78B87CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BB873E0-0C54-47A3-9493-6083C78B87CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BB873E0-0C54-47A3-9493-6083C78B87CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BB873E0-0C54-47A3-9493-6083C78B87CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BB873E0-0C54-47A3-9493-6083C78B87CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {452F3E03-4DDC-4C5C-9DEF-DC53C1B7D2F1}
+	EndGlobalSection
+EndGlobal
